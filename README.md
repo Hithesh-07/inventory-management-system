@@ -44,7 +44,7 @@ inventory-management-system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/inventory-management-system.git
+git clone https://github.com/hithesh-07/inventory-management-system.git
 cd inventory-management-system
 ```
 
